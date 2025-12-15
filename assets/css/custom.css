@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+    background: #f8fafc;
+    color: #222;
+    margin: 0;
+}
+/* Fancy, but minimalist tweaks */
+.site-title {
+    letter-spacing: 2px;
+    font-weight: 700;
+    color: #1476f2;
+}
+a {
+    color: #1476f2;
+    text-decoration: none;
+}
+a:hover {
+    color: #0056b3;
+    border-bottom: 1px solid #1476f2;
+}
+nav {
+    background: #fff;
+    box-shadow: 0 1px 0 #edeff2;
+    padding: 0.5em 0;
+}
+.site-header {
+    border-bottom: none;
+}
+.site-nav {
+    font-weight: 500;
+}
+.site-footer {
+    background: #f6f8fa;
+    color: #666;
+    border-top: none;
+}
