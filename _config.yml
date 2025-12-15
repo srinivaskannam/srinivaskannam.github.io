@@ -1,0 +1,26 @@
+title: Srinivas Kannam
+email: your-email@example.com
+description: >-
+  Welcome to my personal knowledge base & blog.
+baseurl: ""
+url: "https://srinivaskannam.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+
+# Social links (optional)
+twitter_username: srinivaskannam
+github_username: srinivaskannam
+
+# Custom style location
+sass:
+  style: compressed
+
+# Exclude these files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
