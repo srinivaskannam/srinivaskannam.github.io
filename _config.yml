@@ -1,5 +1,5 @@
 title: Srinivas Kannam
-email: your-email@example.com
+email: blogs@srinivaskannam.com
 description: >-
   Welcome to my personal knowledge base & blog.
 baseurl: ""
@@ -13,7 +13,6 @@ plugins:
 markdown: kramdown
 
 # Social links (optional)
-twitter_username: srinivaskannam
 github_username: srinivaskannam
 
 # Custom style location
