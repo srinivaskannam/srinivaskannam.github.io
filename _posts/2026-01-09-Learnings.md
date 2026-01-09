@@ -1,7 +1,8 @@
 ## Learnings
 
 ### Learning 1
-- Making use of copilot in GitHub & Jira Integration
+- Making use of copilot in GitHub
+- Jira Integration and assigning Issues to Copilot
 
 ### Learning 2
 - Making use of copilot in VSCode
