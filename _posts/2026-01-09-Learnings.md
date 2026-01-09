@@ -2,7 +2,7 @@
 - Very basic and tiny works to start with.
 - Primary objective is to setup tools and working setup.
 - Speak copilot vibe
-- Learning Python
+- Learning Python & **Learn the ability to learn**
 
 ### Work 1
 - Making use of copilot in GitHub
