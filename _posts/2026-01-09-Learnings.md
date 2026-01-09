@@ -1,14 +1,18 @@
 ## Learnings
+- Very basic and tiny works to start with.
+- Primary objective is to setup tools and working setup.
+- Speak copilot vibe
+- Learning Python
 
-### Learning 1
+### Work 1
 - Making use of copilot in GitHub
 - Jira Integration and assigning Issues to Copilot
 
-### Learning 2
+### Work 2
 - Making use of copilot in VSCode
 
-### Learning 3
+### Work 3
 - Making use of both to create an App
 
-### Learning 4
+### Work 4
 - My AI Portal, Network Inventory and Fireflow records
